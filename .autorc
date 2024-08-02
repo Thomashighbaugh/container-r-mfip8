@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Thomashighbaugh",
+  "repo": "container-r-mfip8",
+  "name": "Thomashighbaugh",
+  "email": "32242061+Thomashighbaugh@users.noreply.github.com",
+}
